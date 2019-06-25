@@ -8,3 +8,7 @@ GIT Service Providers
 1) Github
 2) Bitbucket
 ...
+
+Learn ... 
+.ignore, revert, merge
+staging for the examination
